@@ -31,9 +31,9 @@
 - SilentPatchSA : GTA:SA 에 있는 아주 많은 버그들 수정
 - SA GINPUT : 패드 지원 향상
 - GTA SA **1.0 US** : 모드 추가를 위한 실행파일 
-- LARGE ADDRESS : GTA:SA 실행파일이 최대 4기가 메모리를 인식하는 패치(무거운 모드(EX: ROSA, 2D FX등)등을 올렸을때 사용하면 좋음)
+- LARGE ADDRESS : GTA:SA 가 최대 4기가 메모리를 인식하는 패치
 
-## 폴더 구조(Directory Structure)
+## 폴더 구조(Folder Structure)
 GTA:SA Directory
 - AUDIO FIX
 - CLEO
@@ -55,4 +55,4 @@ GTA:SA Directory
 - [MODLOADER 충돌 목록 및 해결방법](https://www.mixmods.com.br/p/lista-de-crash-e-solucoes.html)  
 
 ## 참고 사이트
-[MIXMODS](https://www.mixmods.com)
+[MIXMODS](https://www.mixmods.com.br)
