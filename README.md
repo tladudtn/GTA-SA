@@ -3,7 +3,7 @@
 몇가지 모드를 추가하여 17년된 게임을 원활하게 돌려보자
 
 ## 필수모드 모드(Mod List)
-- [AUDIO FIX]()
+- [AUDIO FIX]()(링크 누락)
 - [CLEO SA + ASI LOADER](https://cleo.li/)
 - [CLEO+](https://www.mixmods.com.br/2020/03/CLEOPlus.html)
 - [MODLOADER](https://www.gtagarage.com/mods/show.php?id=25377)
@@ -33,6 +33,16 @@
 - GTA SA **1.0 US** : 모드 추가를 위한 실행파일 
 - LARGE ADDRESS : GTA:SA 가 최대 4기가 메모리를 인식하는 패치
 
+## 설치 서순
+0. GTA SA 1.0 US 파일을 기존 실행파일에 덮어씌우기
+1. CLEO, ASI LOADER를 GTA:SA 폴더에 설치
+2. MODLOADER 설치
+3. CLEO+ 파일을 CLEO 폴더에 넣기
+4. MODLOADER에 SA WIDESCREEN FIX, SilentPatchSA, SA GINPUT등   
+여러 모드들 설치
+>모드를 설치할때 왠만한 경우에는 modloader 폴더에 넣으면 된다.  
+(* 예외케이스도 있으므로 README를 항상 읽어보자) 
+
 ## 폴더 구조(Folder Structure)
 GTA:SA Directory
 - AUDIO FIX
@@ -45,9 +55,7 @@ GTA:SA Directory
     - SA WIDESCREEN FIX
     - SA GInput
     - 등등 여러모드들
->모드는 왠만하면 MODLOADER 폴더에 넣으면 된다.  
-(* 예외케이스도 있으므로 README를 항상 읽어보자) 
-
+    
 ## 도움말
 - [GTA:SA 지연 개선](https://www.mixmods.com.br/2017/01/como-tirar-o-lag-do-gta-aumentar-fps.html)  
 - [MOLOADER 튜토리얼](https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html)  
