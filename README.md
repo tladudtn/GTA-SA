@@ -1,21 +1,23 @@
 # GTA:SA
-고전 명작 GTA:SA는 멀티코어 CPU와 윈도우 10 PC에서는 정상적으로 게임을 하기가 힘들다
-17년된 게임을 원활하게 돌려보자
+고전 명작 GTA:SA는 순정으로 돌리기에는 버그가 너무 많아 정상적으로 게임을 진행할수가 없다.    
+몇가지 모드를 추가하여 17년된 게임을 원활하게 돌려보자
 
-## 권장(사실은 필수) 모드(Mod List)
+## 필수모드 모드(Mod List)
 - [AUDIO FIX]()
 - [CLEO SA + ASI LOADER](https://cleo.li/)
 - [CLEO+](https://www.mixmods.com.br/2020/03/CLEOPlus.html)
 - [MODLOADER](https://www.gtagarage.com/mods/show.php?id=25377)
-- [MIXSETS](https://www.mixmods.com.br/2019/08/mod-mixsets.html)
 - [SA WIDESCREEN FIX](https://thirteenag.github.io/wfp)
 - [SilentPatchSA](https://gtaforums.com/topic/669045-silentpatch/)
-- [SA GINPUT](https://www.mixmods.com.br/2020/04/iii-vc-sa-ginput.html)
 - [GTA SA **1.0 US**](https://www.gtagarage.com/mods/show.php?id=28766) 
 
 ## 옵션
-- [한국어 자막](https://nightly.tistory.com/101)  
+- [한글패치](https://nightly.tistory.com/101)
+- [SA GINPUT](https://www.mixmods.com.br/2020/04/iii-vc-sa-ginput.html)
 - [LARGE ADDRESS](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)  
+- [OPEN LIMIT ADJUSTER](https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster)
+- [MIXSETS](https://www.mixmods.com.br/2019/08/mod-mixsets.html)  
+- [LightHouse&Pyramid Light Fix](https://www.mixmods.com.br/2020/01/lighthouse-pyramid-fix.html)
 
 
 
@@ -42,7 +44,9 @@ GTA:SA Directory
     - SilentPatchSA
     - SA WIDESCREEN FIX
     - SA GInput
-
+    - 등등 여러모드들
+>모드는 왠만하면 MODLOADER 폴더에 넣으면 된다.  
+(* 예외케이스도 있으므로 README를 항상 읽어보자) 
 
 ## 도움말
 - [GTA:SA 지연 개선](https://www.mixmods.com.br/2017/01/como-tirar-o-lag-do-gta-aumentar-fps.html)  
