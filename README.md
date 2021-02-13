@@ -1,22 +1,35 @@
-# GTA SA MODING
-10년이 넘어간 게임을 최신 PC + 윈도우 10에서 매끄럽게 돌리기
-
+# GTA:SA
+고전 명작 GTA:SA는 멀티코어 CPU와 윈도우 10 PC에서는 정상적으로 게임을 하기가 힘들다
+17년된 게임을 원활하게 돌려보자
 
 ## 권장(사실은 필수) 모드(Mod List)
 - [AUDIO FIX]()
 - [CLEO SA + ASI LOADER](https://cleo.li/)
-- [CLEO +](https://www.mixmods.com.br/2020/03/CLEOPlus.html)
+- [CLEO+](https://www.mixmods.com.br/2020/03/CLEOPlus.html)
 - [MODLOADER](https://www.gtagarage.com/mods/show.php?id=25377)
 - [MIXSETS](https://www.mixmods.com.br/2019/08/mod-mixsets.html)
 - [SA WIDESCREEN FIX](https://thirteenag.github.io/wfp)
 - [SilentPatchSA](https://gtaforums.com/topic/669045-silentpatch/)
 - [SA GINPUT](https://www.mixmods.com.br/2020/04/iii-vc-sa-ginput.html)
 - [GTA SA **1.0 US**](https://www.gtagarage.com/mods/show.php?id=28766) 
-    - [LARGE ADDRESS](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)
 
 ## 옵션
-[한국어 자막](https://nightly.tistory.com/101)
- 
+- [한국어 자막](https://nightly.tistory.com/101)  
+- [LARGE ADDRESS](https://www.mixmods.com.br/2016/09/largeaddress-reconhecer-4-gb-ram.html)  
+
+
+
+## 모드 설명
+- AUDIO FIX : 랜덤하게 게임이 튕기는 현상 방지
+- CLEO SA /ASI LOADER : 모드 라이브러리
+- CLEO+ : 기존 CLEO에서 확장지원(OPCODE 추가 등등)
+- MODLOADER : 모드 관리자
+- MIXSETS : GTA:SA 세부 설정 조정 가능한 모드
+- SA WIDESCREEN FIX : 전체화면 비율 수정
+- SilentPatchSA : GTA:SA 에 있는 아주 많은 버그들 수정
+- SA GINPUT : 패드 지원 향상
+- GTA SA **1.0 US** : 모드 추가를 위한 실행파일 
+- LARGE ADDRESS : GTA:SA 실행파일이 최대 4기가 메모리를 인식하는 패치(무거운 모드(EX: ROSA, 2D FX등)등을 올렸을때 사용하면 좋음)
 
 ## 폴더 구조(Directory Structure)
 GTA:SA Directory
