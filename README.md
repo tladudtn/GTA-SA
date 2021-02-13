@@ -3,7 +3,7 @@
 
 
 ## 권장(사실은 필수) 모드(Mod List)
-- [AUDIO FIX](http://www.mediafire.com/file/v8fcmuusns1akji/SFX_And_Streams.zip/file)
+- [AUDIO FIX]()
 - [CLEO SA + ASI LOADER](https://cleo.li/)
 - [CLEO +](https://www.mixmods.com.br/2020/03/CLEOPlus.html)
 - [MODLOADER](https://www.gtagarage.com/mods/show.php?id=25377)
@@ -31,8 +31,11 @@ GTA:SA Directory
     - SA GInput
 
 
-## ?
+## 도움말
 - [GTA:SA 지연 개선](https://www.mixmods.com.br/2017/01/como-tirar-o-lag-do-gta-aumentar-fps.html)  
 - [MOLOADER 튜토리얼](https://www.mixmods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html)  
 - [MODLOADER 관리방법](https://www.mixmods.com.br/2018/08/dicas-de-como-cuidar-do-seu-gta.html)
 - [MODLOADER 충돌 목록 및 해결방법](https://www.mixmods.com.br/p/lista-de-crash-e-solucoes.html)  
+
+## 참고 사이트
+[MIXMODS](https://www.mixmods.com)
